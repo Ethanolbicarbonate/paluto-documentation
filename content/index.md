@@ -10,6 +10,5 @@ Welcome to the central repository for the Paluto project.
 - [[Database Schema/index|Database Schema]]
 - [[Front-End Planning/index|Front-End Planning]]
 
-TODO:
-Database Schema not updated yet
+View latest Schema and Plan Doc
 ---
